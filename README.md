@@ -1,6 +1,7 @@
+![Software Engineer](https://cdn.discordapp.com/attachments/384068146346328064/751829711528919141/Untitled_design.png)
+
 ### Greeting humble travelers 👋
 #### Software Engineer
-![Software Engineer](https://cdn.discordapp.com/attachments/384068146346328064/751829711528919141/Untitled_design.png)
 
 I'm Kanniti from Bangkok, Thailand. I enjoy exploring languages and experimenting. I mostly use JAVA and Python for my projects. I also love learning about UX and UI design as a new hobby.
 
