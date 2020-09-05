@@ -18,4 +18,4 @@ I'm Kanniti from Bangkok, Thailand. I enjoy exploring languages and experimentin
 
 ![Profile views](https://gpvc.arturio.dev/kanniti)  
 
-https://ghuser.io/kanniti
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanniti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
