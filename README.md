@@ -6,7 +6,7 @@ I'm Kanniti from Bangkok, Thailand. I enjoy exploring languages and experimentin
 
 
 
-<cneter>- 💼 I'm currently a Software Engineer at Bespokify TH </center>
+- 💼 I'm currently a Software Engineer at Bespokify TH
 - 🔭 I’m currently working on Sneakers image auto detection / AR advertisement. 
 - 🌱 I’m currently learning Node / Augment reality Tech.  
 
