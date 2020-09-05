@@ -1,4 +1,5 @@
 ![Software Engineer](https://cdn.discordapp.com/attachments/384068146346328064/751829711528919141/Untitled_design.png)
+![Software Enginer](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 
 # It's Kanniti Singsanan
 
