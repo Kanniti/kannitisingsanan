@@ -13,7 +13,7 @@ I'm Kanniti from Bangkok, Thailand. I enjoy exploring languages and experimentin
 ## Skills
 - 💻 JAVA / Python / CATIA V5 / Arduino / AutoCAD
 
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/AutoCAD-%233776AB.svg?&style=for-the-badge&logo=Academia&logoColor=white"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-%00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/AutoCAD-%233776AB.svg?&style=for-the-badge&logo=Academia&logoColor=white"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-%00979D.svg?&style=for-the-badge&logo=arduino&logoColor=white">
 
 
 
