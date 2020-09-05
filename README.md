@@ -1,12 +1,12 @@
 ![Software Engineer](https://cdn.discordapp.com/attachments/384068146346328064/751829711528919141/Untitled_design.png)
-->
-# It's Kanniti Singsanan <-
+
+# It's Kanniti Singsanan
 
 I'm Kanniti from Bangkok, Thailand. I enjoy exploring languages and experimenting. I mostly use JAVA and Python for my projects. I also love learning about UX and UI design as a new hobby.
 
 
 
-- 💼 I'm currently a Software Engineer at Bespokify TH
+<cneter>- 💼 I'm currently a Software Engineer at Bespokify TH </center>
 - 🔭 I’m currently working on Sneakers image auto detection / AR advertisement. 
 - 🌱 I’m currently learning Node / Augment reality Tech.  
 
