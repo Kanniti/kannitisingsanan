@@ -18,3 +18,4 @@ I'm Kanniti from Bangkok, Thailand. I enjoy exploring languages and experimentin
 
 ![Profile views](https://gpvc.arturio.dev/kanniti)  
 
+https://ghuser.io/kanniti
